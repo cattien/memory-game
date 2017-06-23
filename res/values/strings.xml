@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Memory</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_help">How to play</string>
+     <string name="help_string">Lần lượt mở từng món ăn trên màn hình bằng cách chọn vào nồi tương ứng. <br/>
+         Từng cặp hình giống nhau sẽ biến mất. Bạn sẽ được qua màn sau khi đã mở hết các hình. <br/>
+         Số lần mở sai tối đa trong mỗi màn chơi tương ứng với số cặp hình cần mở. <br/>
+         Chúc bạn may mắn! >.* </string>
+
+</resources>
